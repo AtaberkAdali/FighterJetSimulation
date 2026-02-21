@@ -36,6 +36,7 @@ G – Open / Close landing gear
 R – Switch target
 
 Left Mouse Button – Fire weapon
+  
   While holding the button, the camera follows the fired bullet
 
 
