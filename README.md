@@ -7,13 +7,13 @@ Suitable for PC use.
 
 # Controls
 
-* ✈️ Flight Controls *
+* ✈️ Flight Controls*
 
 Shift – Increase throttle
 Ctrl – Decrease throttle
 Space – Brake
 
-* 🔄 Orientation & Maneuvering *
+* 🔄 Orientation & Maneuvering*
 
 A – Roll left
 D – Roll right
@@ -22,7 +22,7 @@ S – Pitch down
 Q – Yaw left
 E – Yaw right
 
-* 🛞 Systems & Combat *
+* 🛞 Systems & Combat*
 
 G – Open / Close landing gear
 R – Switch target
