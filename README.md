@@ -7,25 +7,34 @@ Suitable for PC use.
 
 # Controls
 
-* ✈️ Flight Controls*
+* ✈️ Flight Controls
 
 Shift – Increase throttle
+
 Ctrl – Decrease throttle
+
 Space – Brake
 
-* 🔄 Orientation & Maneuvering*
+* 🔄 Orientation & Maneuvering
 
 A – Roll left
+
 D – Roll right
+
 W – Pitch up
+
 S – Pitch down
+
 Q – Yaw left
+
 E – Yaw right
 
-* 🛞 Systems & Combat*
+* 🛞 Systems & Combat
 
 G – Open / Close landing gear
+
 R – Switch target
+
 Left Mouse Button – Fire weapon
   While holding the button, the camera follows the fired bullet
 
