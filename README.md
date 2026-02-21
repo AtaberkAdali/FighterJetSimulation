@@ -3,7 +3,7 @@ Made using Unreal Engine version 5.5
 
 *Project End Year : 2026*
  
-Suitable for PC use. 
+Designed for PC gameplay using keyboard and mouse controls.
 
 
 # Gameplay
